@@ -1,0 +1,30 @@
+[
+   {
+      "id":"1",
+      "name":"ali",
+      "email":"email@gmail.com",
+      "email_verified_at":null,
+      "password":"$2y$10$wFzMve5vSd7hWE6xVlCFtuLG1LSobwPQ6NBFKn31oJ7f.3GmxmNue",
+      "ssn":"122545",
+      "img":"1675466314_000.jpg",
+      "phone":"0101144",
+      "department_id":"1",
+      "remember_token":null,
+      "created_at":"2023-02-03 23:18:34",
+      "updated_at":"2023-02-03 23:18:34"
+   },
+   {
+      "id":"3",
+      "name":"ali",
+      "email":"newemail@gmail.com",
+      "email_verified_at":null,
+      "password":"$2y$10$sXBhO.gUL\/deBVPFk2X\/o.F\/WHU2pEQARC36qPG8ME2EefspWLz3i",
+      "ssn":"122545",
+      "img":"1675515861_000.jpg",
+      "phone":"0101144",
+      "department_id":"1",
+      "remember_token":null,
+      "created_at":"2023-02-04 13:04:21",
+      "updated_at":"2023-02-04 13:04:21"
+   }
+]

@@ -1,0 +1,80 @@
+get     https://zuapp.000webhostapp.com/api/users            =>  to get all users (students)
+post    https://zuapp.000webhostapp.com/api/users            =>  student register
+put     https://zuapp.000webhostapp.com/api/users            => to update student information
+delete  https://zuapp.000webhostapp.com/api/users/(user id)  => to delete one student
+get     https://zuapp.000webhostapp.com/api/users/(user id)  => to show one student information
+
+
+
+get     https://zuapp.000webhostapp.com/api/departments            =>  to get all departments
+post    https://zuapp.000webhostapp.com/api/departments            =>  add department
+put     https://zuapp.000webhostapp.com/api/departments            => to update department
+delete  https://zuapp.000webhostapp.com/api/departments/(departments id)  => to delete department
+get     https://zuapp.000webhostapp.com/api/departments/(departments id)  => to show department
+
+
+get     https://zuapp.000webhostapp.com/api/staff            =>  to get all staff
+post    https://zuapp.000webhostapp.com/api/staff            =>  add staff
+put     https://zuapp.000webhostapp.com/api/staff            => to update staff
+delete  https://zuapp.000webhostapp.com/api/staff/(staff id)  => to delete staff
+get     https://zuapp.000webhostapp.com/api/staff/(staff id)  => to show staff
+
+
+get     https://zuapp.000webhostapp.com/api/material            =>  to get all material
+post    https://zuapp.000webhostapp.com/api/material            =>  add material
+put     https://zuapp.000webhostapp.com/api/material            => to update material
+delete  https://zuapp.000webhostapp.com/api/material/(material id)  => to delete material
+get     https://zuapp.000webhostapp.com/api/material/(material id)  => to show material
+
+get     https://zuapp.000webhostapp.com/api/course            =>  to get all course
+post    https://zuapp.000webhostapp.com/api/course            =>  add course
+put     https://zuapp.000webhostapp.com/api/course            => to update course
+delete  https://zuapp.000webhostapp.com/api/course/(course id)  => to delete course
+get     https://zuapp.000webhostapp.com/api/course/(course id)  => to show course
+
+get     https://zuapp.000webhostapp.com/api/post            =>  to get all post
+post    https://zuapp.000webhostapp.com/api/post            =>  add post
+put     https://zuapp.000webhostapp.com/api/post            => to update post
+delete  https://zuapp.000webhostapp.com/api/post/(post id)  => to delete post
+get     https://zuapp.000webhostapp.com/api/post/(post id)  => to show post
+
+get     https://zuapp.000webhostapp.com/api/reply            =>  to get all reply
+post    https://zuapp.000webhostapp.com/api/reply            =>  add reply
+put     https://zuapp.000webhostapp.com/api/reply            => to update reply
+delete  https://zuapp.000webhostapp.com/api/reply/(reply id)  => to delete reply
+get     https://zuapp.000webhostapp.com/api/reply/(reply id)  => to show reply
+
+get     https://zuapp.000webhostapp.com/api/testimonial            =>  to get all testimonial
+post    https://zuapp.000webhostapp.com/api/testimonial            =>  add testimonial
+put     https://zuapp.000webhostapp.com/api/testimonial            => to update testimonial
+delete  https://zuapp.000webhostapp.com/api/testimonial/(testimonial id)  => to delete testimonial
+get     https://zuapp.000webhostapp.com/api/testimonial/(testimonial id)  => to show testimonial
+
+get     https://zuapp.000webhostapp.com/api/quiz            =>  to get all quiz
+post    https://zuapp.000webhostapp.com/api/quiz            =>  add quiz
+put     https://zuapp.000webhostapp.com/api/quiz            => to update quiz
+delete  https://zuapp.000webhostapp.com/api/quiz/(quiz id)  => to delete quiz
+get     https://zuapp.000webhostapp.com/api/quiz/(quiz id)  => to show quiz
+
+get     https://zuapp.000webhostapp.com/api/quistion            =>  to get all quistion
+post    https://zuapp.000webhostapp.com/api/quistion            =>  add quistion
+put     https://zuapp.000webhostapp.com/api/quistion            => to update quistion
+delete  https://zuapp.000webhostapp.com/api/quistion/(quistion id)  => to delete quistion
+get     https://zuapp.000webhostapp.com/api/quistion/(quistion id)  => to show quistion
+
+get     https://zuapp.000webhostapp.com/api/answer              =>  to get all answer
+post    https://zuapp.000webhostapp.com/api/answer              =>  add answer
+put     https://zuapp.000webhostapp.com/api/answer              => to update answer
+delete  https://zuapp.000webhostapp.com/api/answer/(answer id)  => to delete answer
+get     https://zuapp.000webhostapp.com/api/answer/(answer id)  => to show answer
+
+
+post    https://zuapp.000webhostapp.com/api/login              =>  student login
+get     https://zuapp.000webhostapp.com/api/logout              =>  student logout
+
+post    https://zuapp.000webhostapp.com/api/login/staff              => staff login
+get     https://zuapp.000webhostapp.com/api/logout/staff/       => staff logout
+
+
+
+
